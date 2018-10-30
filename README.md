@@ -25,7 +25,7 @@ It is a plugin gem to Data Analysis in RUby([Daru](https://github.com/sciruby/da
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Now add this line to your application's Gemfile:
 
 ```ruby
 gem 'daru-view', git: 'https://github.com/SciRuby/daru-view'
